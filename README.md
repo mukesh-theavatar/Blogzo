@@ -39,6 +39,6 @@ Non-Priority Feature: Configure Appearance and Layout, Help and Support, Chat Fa
 
 Testing for the website will be done by both front-end and Back-end members
 
-Checkout Our Another Project:
-# AuthorsBlog.Tech - https://github.com/mukesh-theavatar/AuthorsBlog.Tech
+# Checkout Our Another Project:
+AuthorsBlog.Tech - https://github.com/mukesh-theavatar/AuthorsBlog.Tech
 A blog for authors where the solutions make the space and problem will wash out
