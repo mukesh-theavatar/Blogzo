@@ -24,7 +24,7 @@ Non-Priority Feature: Configure Appearance and Layout, Help and Support, Chat Fa
 
 | List of Features must to implemented   |   Assigned to   |  Deadline   |
 |----------------------------------------|-----------------|-------------|
-|1. Sign In and Sign Up for AuthorsBlog  | Vasu  &  Aman   |  27th Nov   |  
+|1. Sign In and Sign Up for Blogzo       | Vasu  &  Aman   |  27th Nov   |  
 |2. Creating a Post/Article with image   | Pinklesh & Vasu |  27th Nov   |  
 |3. Integration and Deployment           |  Mukesh & Aman  |  28th Nov   |   
 |4. Creating Home Page functional        | Vasu and Mukesh | (Dec 1st)   |
