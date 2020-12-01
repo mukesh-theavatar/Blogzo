@@ -1,4 +1,4 @@
-# Blogzo
+# Blogzo - Full Stack MERN Blog Application
 # List of Features for a MVP:
 1 .Sign-In/SignUp
 
@@ -39,6 +39,6 @@ Non-Priority Feature: Configure Appearance and Layout, Help and Support, Chat Fa
 
 Testing for the website will be done by both front-end and Back-end members
 
-# Checkout Our Another Project:
+# Checkout the another Project on MERN Stack:
 AuthorsBlog.Tech - https://github.com/mukesh-theavatar/AuthorsBlog.Tech
 A blog for authors where the solutions make the space and problem will wash out
